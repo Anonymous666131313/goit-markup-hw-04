@@ -421,4 +421,24 @@ a {
   color: #f4f4fd;
   max-width: 264px;
 }
+.footer-social-icons {
+  display: flex;
+  align-items: baseline;
+}
+.container.footer-container { 
+  display: flex;
+  align-items: baseline;
+
+}
+.icon-footer-list {}
+
+.icon-footer-item {}
+
+.icfooter-link {}
+
+.icon-footer-icon {}
+
+.icon-footer-link {}
+
+.icon-team-link {}
 /* -------FOOTER-------- */
