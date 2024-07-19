@@ -450,7 +450,11 @@ margin-right: 120px;
 
 
 
-.icon-footer-icon {}
+.icon-footer-icon {
+  width: 40px;
+  height: 40px;
+  fill: #f4f4fd;
+}
 
 .icon-footer-link {
   width: 100%;
