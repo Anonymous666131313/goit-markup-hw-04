@@ -142,6 +142,8 @@ a {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
 }
 .hero-title {
   font-weight: 700;
@@ -324,6 +326,7 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
+  margin-bottom: 8px;
 }
 
 /* -------TEAM-------- */
@@ -429,8 +432,7 @@ a {
   max-width: 264px;
 }
 .footer-social-icons {
-  display: flex;
-  align-items: baseline;
+  
 }
 .container.footer-container { 
   display: flex;
@@ -453,12 +455,14 @@ margin-right: 120px;
   gap: 16px;
 }
 
-
+.icon-footer-item {
+  width: 40px;
+  height: 40px;
+}
 
 
 .icon-footer-icon {
-  width: 40px;
-  height: 40px;
+ 
   fill: #f4f4fd;
 }
 
